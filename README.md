@@ -1,2 +1,2 @@
 # cmgt-db
-enge shit
+Het CMGT database van @Frietvorkje69
