@@ -1,1 +1,24 @@
+body {
+  background-image: url("https://thumbs.gfycat.com/ExcellentFamousJaeger-size_restricted.gif");
+  background-color:rgb(200,200,200);
+  font-family:monospace;
+}
 
+div {
+  display: block;
+  background-color:rgb(200,200,200);
+  padding:10px;
+  margin:20px;
+}
+
+image {
+  width:100%;
+}
+
+.amongus {
+  padding:0;
+}
+#firstword {
+  color:orange;
+  font-weight:bolder;
+}
