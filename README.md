@@ -1,2 +1,2 @@
-# cmgt-db
-Het CMGT database van @Frietvorkje69
+# CLE01: Baby web development
+Enge dingen hier
