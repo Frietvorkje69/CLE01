@@ -1,2 +1,2 @@
 # CLE01: Baby web development
-Enge dingen hier
+Introductie  tot HTML en CSS. Onepager over Google voor TechFilo 1.
